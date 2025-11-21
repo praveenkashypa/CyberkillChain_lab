@@ -21,12 +21,12 @@ How to use this repo / lab workflow
 
 Read the lab PDF (included) to understand the tasks and scope.
 
-Cyber_Kill-Chain:-
+**Cyber_Kill-Chain:-**
 Start the TryHackMe machine (or lab environment) and connect via the provided method (the TryHackMe VPN or web-based machine).
 
 Create a fresh working directory for your notes (or use writeup/ in this repo).
 
-Follow the standard pentest flow:
+**Follow the standard pentest flow:**
 
 Reconnaissance (passive → active)
 
